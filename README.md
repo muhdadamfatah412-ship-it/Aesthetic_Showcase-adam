@@ -47,5 +47,4 @@ A sleek Aesthetic portfolio &amp; status terminal
   <i>Maintained by @muhdadamfatah412-ship-it</i>
 </div>
 
- * Click Commit changes... at the top right, write a commit message (e.g., Added aesthetic layout), and click Commit changes.
-Let me know once you commit this, and we can tweak the ASCII banner or colors to make it look even higher-effort!
+ 
